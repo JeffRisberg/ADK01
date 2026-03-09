@@ -20,3 +20,4 @@ build/
 sessions.db
 
 app/.adk/
+.idea/copilot.data.migration.ask2agent.xml
