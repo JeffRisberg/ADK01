@@ -32,6 +32,14 @@ adk run app
 ```
 
 
+Example queries:
+
+```
+What is the stock price of Apple?
+What is the ticker for Apple?
+tell me the sector for Apple
+tell me info about ford motor company?
+```
 # Close with deactivation of venv
 
 ```
